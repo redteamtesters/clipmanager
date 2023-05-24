@@ -1,5 +1,17 @@
 # Clipboard Manager
 
+By RedTeamTesters@gmail.com
+
+   _____             _     _       _____     _   
+  / ____|           (_)   | |     |  __ \   | |  
+ | |  __ _ __   __ _ _ ___| |_ ___| |__) |__| |_ 
+ | | |_ | '_ \ / _` | / __| __/ _ \  ___/ _ \ __|
+ | |__| | |_) | (_| | \__ \ ||  __/ |  |  __/ |_ 
+  \_____| .__/ \__,_|_|___/\__\___|_|   \___|\__|
+        | |                                      
+        |_|                                      
+
+
 The Clipboard Manager is a Python script that provides a command-line interface (CLI) to manage your clipboard content. It uses the `click` library to create a user-friendly CLI with the following features:
 
 - **Show Clipboard Content**: View the current content stored in your clipboard.
